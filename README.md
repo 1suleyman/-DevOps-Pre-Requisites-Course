@@ -21,7 +21,7 @@ Each lab will be documented in its own folder with a README containing:
 | 2         | 🐧 Linux VI Editor Lab | [📂 Repo](https://github.com/1suleyman/-Linux-VI-Editor-Lab---prereq-edition/tree/main) | vi/vim modes, :wq/:q!, yy, dd, p, u, navigation & text editing |
 | 3         | 🐧 Linux Commands Lab – User Management, SSH & System Info | [📂 Repo](https://github.com/1suleyman/-Linux-Commands-Lab-User-Management-SSH-System-Info/tree/main) | whoami, id, su, ssh, sudo, wget, curl, /etc/os-release                  |
 | 4         | 🐧 Linux Package Management Lab – RPM & YUM | [📂 Repo](https://github.com/1suleyman/-Linux-Package-Management-Lab-RPM-YUM/tree/main) | rpm -q, rpm -i, rpm -e, yum install/remove, repo management, dependency handling                  |
-| 5         | Coming soon… | 📂 Folder | e.g. process monitoring (`ps`, `top`)                  |
+| 5         | 🐧 Linux Services Management Lab – systemctl, HTTPD & Flask App | [📂 Repo](https://github.com/1suleyman/-Linux-Services-Management-Lab-systemctl-HTTPD-Flask-App/tree/main) | systemctl basics, httpd management, app.service, ExecStartPre/Post, enable/disable services |
 
 
 ---
