@@ -19,7 +19,8 @@ Each lab will be documented in its own folder with a README containing:
 | --------- | ------------ | --------- | ------------------------------------------------------ |
 | 1         | 🐧 Linux CLI Lab – Working Your Way Through the Command Line | [📂 Repo](https://github.com/1suleyman/-Linux-CLI-Lab-Working-Your-Way-Through-the-Command-Line/tree/main) | ls, touch, cat, mkdir -p, mv, cp -r, rm -r            |
 | 2         | 🐧 Linux VI Editor Lab | [📂 Repo](https://github.com/1suleyman/-Linux-VI-Editor-Lab---prereq-edition/tree/main) | vi/vim modes, :wq/:q!, yy, dd, p, u, navigation & text editing |
-| 3         | Coming soon… | 📂 Folder | e.g. process monitoring (`ps`, `top`)                  |
+| 3         | 🐧 Linux Commands Lab – User Management, SSH & System Info | [📂 Repo](https://github.com/1suleyman/-Linux-Commands-Lab-User-Management-SSH-System-Info/tree/main) | whoami, id, su, ssh, sudo, wget, curl, /etc/os-release                  |
+| 4         | Coming soon… | 📂 Folder | e.g. process monitoring (`ps`, `top`)                  |
 
 ---
 
