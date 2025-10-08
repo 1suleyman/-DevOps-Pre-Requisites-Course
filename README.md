@@ -17,7 +17,7 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                              |
 | --------- | ------------ | --------- | ------------------------------------------------------ |
-| 1         | Coming soon… | 📂 Folder | e.g. file permissions, directory navigation            |
+| 1         | 🐧 Linux CLI Lab – Working Your Way Through the Command Line | [📂 Repo](https://github.com/1suleyman/-Linux-CLI-Lab-Working-Your-Way-Through-the-Command-Line/tree/main) | ls, touch, cat, mkdir -p, mv, cp -r, rm -r            |
 | 2         | Coming soon… | 📂 Folder | e.g. package management, service control (`systemctl`) |
 | 3         | Coming soon… | 📂 Folder | e.g. process monitoring (`ps`, `top`)                  |
 
