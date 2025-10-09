@@ -31,7 +31,7 @@ Each lab will be documented in its own folder with a README containing:
 | Challenge | Title        | Link      | Key Skill                               |
 | --------- | ------------ | --------- | --------------------------------------- |
 | 1         | 🐧 Linux Networking Lab – Switching, Routing & IP Configuration | [📂 Repo](https://github.com/1suleyman/-Linux-Networking-Lab-Switching-Routing-IP-Configuration/tree/main) | ip addr, ip route, static routing, subnetting (/24), gateway config, jump host routing |
-| 2         | Coming soon… | [📂 Repo]()  | e.g. DNS resolution, `/etc/hosts` setup |
+| 2         | 🐧 Linux DNS Lab – Domain Name Resolution & Configuration | [📂 Repo](https://github.com/1suleyman/-Linux-DNS-Lab-Domain-Name-Resolution-Configuration/tree/main)  | /etc/hosts, /etc/resolv.conf, nameserver, search domain, nslookup, DNS hierarchy |
 | 3         | Coming soon… | [📂 Repo]()  | e.g. SSH, SCP, remote connectivity      |
 
 ---
