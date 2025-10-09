@@ -30,9 +30,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                               |
 | --------- | ------------ | --------- | --------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. IP configuration, ping, traceroute |
-| 2         | Coming soon… | 📂 Folder | e.g. DNS resolution, `/etc/hosts` setup |
-| 3         | Coming soon… | 📂 Folder | e.g. SSH, SCP, remote connectivity      |
+| 1         | 🐧 Linux Networking Lab – Switching, Routing & IP Configuration | [📂 Repo](https://github.com/1suleyman/-Linux-Networking-Lab-Switching-Routing-IP-Configuration/tree/main) | ip addr, ip route, static routing, subnetting (/24), gateway config, jump host routing |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. DNS resolution, `/etc/hosts` setup |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. SSH, SCP, remote connectivity      |
 
 ---
 
@@ -40,9 +40,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                          |
 | --------- | ------------ | --------- | -------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. installing and starting applications          |
-| 2         | Coming soon… | 📂 Folder | e.g. configuration files and environment variables |
-| 3         | Coming soon… | 📂 Folder | e.g. service management and logs                   |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. installing and starting applications          |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. configuration files and environment variables |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. service management and logs                   |
 
 ---
 
@@ -50,9 +50,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                 |
 | --------- | ------------ | --------- | ----------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. Git basics (`init`, `add`, `commit`) |
-| 2         | Coming soon… | 📂 Folder | e.g. working with branches and merges     |
-| 3         | Coming soon… | 📂 Folder | e.g. pushing and pulling from GitHub      |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. Git basics (`init`, `add`, `commit`) |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. working with branches and merges     |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. pushing and pulling from GitHub      |
 
 ---
 
@@ -60,9 +60,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                    |
 | --------- | ------------ | --------- | -------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. installing and configuring Apache/Nginx |
-| 2         | Coming soon… | 📂 Folder | e.g. serving static web pages                |
-| 3         | Coming soon… | 📂 Folder | e.g. checking web server logs                |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. installing and configuring Apache/Nginx |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. serving static web pages                |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. checking web server logs                |
 
 ---
 
@@ -70,9 +70,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                         |
 | --------- | ------------ | --------- | --------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. installing MySQL/PostgreSQL  |
-| 2         | Coming soon… | 📂 Folder | e.g. connecting apps to databases |
-| 3         | Coming soon… | 📂 Folder | e.g. running basic SQL commands   |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. installing MySQL/PostgreSQL  |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. connecting apps to databases |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. running basic SQL commands   |
 
 ---
 
@@ -80,9 +80,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                      |
 | --------- | ------------ | --------- | ---------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. user and group management                 |
-| 2         | Coming soon… | 📂 Folder | e.g. file permissions and ownership            |
-| 3         | Coming soon… | 📂 Folder | e.g. SSH key authentication and firewall rules |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. user and group management                 |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. file permissions and ownership            |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. SSH key authentication and firewall rules |
 
 ---
 
@@ -90,9 +90,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                                  |
 | --------- | ------------ | --------- | ---------------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. cloud computing basics                                |
-| 2         | Coming soon… | 📂 Folder | e.g. virtualization and containers                         |
-| 3         | Coming soon… | 📂 Folder | e.g. DevOps tools overview (Docker, Kubernetes, Terraform) |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. cloud computing basics                                |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. virtualization and containers                         |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. DevOps tools overview (Docker, Kubernetes, Terraform) |
 
 ---
 
@@ -100,9 +100,9 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                   |
 | --------- | ------------ | --------- | ------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. setting up web + database tiers        |
-| 2         | Coming soon… | 📂 Folder | e.g. environment variables and dependencies |
-| 3         | Coming soon… | 📂 Folder | e.g. troubleshooting connection issues      |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. setting up web + database tiers        |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. environment variables and dependencies |
+| 3         | Coming soon… | [📂 Repo]()  | e.g. troubleshooting connection issues      |
 
 ---
 
@@ -110,8 +110,8 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                  |
 | --------- | ------------ | --------- | ------------------------------------------ |
-| 1         | Coming soon… | 📂 Folder | e.g. setting up environment and SSH access |
-| 2         | Coming soon… | 📂 Folder | e.g. fixing common setup errors            |
+| 1         | Coming soon… | [📂 Repo]()  | e.g. setting up environment and SSH access |
+| 2         | Coming soon… | [📂 Repo]()  | e.g. fixing common setup errors            |
 
 ---
 
