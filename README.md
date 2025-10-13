@@ -42,7 +42,7 @@ Each lab will be documented in its own folder with a README containing:
 | 1         | ☕ Java Introduction Lab – Installing & Configuring JDK on Linux | [📂 Repo](https://github.com/1suleyman/-Java-Introduction-Lab-Installing-Configuring-JDK-on-Linux/tree/main)  | JDK vs JRE, javac, javadoc, jdb, manual JDK installation, PATH configuration, java -version          |
 | 2         | ☕ Java Compilation & Documentation Lab – Working with .java, .class, and Javadoc | [📂 Repo](https://github.com/1suleyman/-Java-Compilation-Documentation-Lab-Working-with-.java-.class-and-Javadoc)  | javac, java -cp, javadoc, compile & run Java code, generate HTML docs, source vs bytecode |
 | 3         | ☕ Java Build & Packaging Lab – Apache Ant & Maven | [📂 Repo](https://github.com/1suleyman/-Java-Build-Packaging-Lab-Apache-Ant-Maven/tree/main)  | Apache Ant, Maven, build.xml, pom.xml, clean package, jar creation, automated Java builds                   |
-| 4         | Coming soon… | [📂 Repo]()  | e.g.  |
+| 4         | 🟩 Node.js Introduction Lab – Installing, Configuring & Running Node | [📂 Repo](https://github.com/1suleyman/-Node.js-Introduction-Lab-Installing-Configuring-Running-Node/tree/main)  | NVM installation, Node.js LTS setup, system-wide PATH configuration, version verification, run JavaScript files  |
 | 5         | Coming soon… | [📂 Repo]()  | e.g.  |
 | 6         | Coming soon… | [📂 Repo]()  | e.g.  |
 | 7         | Coming soon… | [📂 Repo]()  | e.g.  |
