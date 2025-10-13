@@ -40,7 +40,7 @@ Each lab will be documented in its own folder with a README containing:
 | Challenge | Title        | Link      | Key Skill                                          |
 | --------- | ------------ | --------- | -------------------------------------------------- |
 | 1         | ☕ Java Introduction Lab – Installing & Configuring JDK on Linux | [📂 Repo](https://github.com/1suleyman/-Java-Introduction-Lab-Installing-Configuring-JDK-on-Linux/tree/main)  | JDK vs JRE, javac, javadoc, jdb, manual JDK installation, PATH configuration, java -version          |
-| 2         | Coming soon… | [📂 Repo]()  | e.g. configuration files and environment variables |
+| 2         | ☕ Java Compilation & Documentation Lab – Working with .java, .class, and Javadoc | [📂 Repo](https://github.com/1suleyman/-Java-Compilation-Documentation-Lab-Working-with-.java-.class-and-Javadoc)  | javac, java -cp, javadoc, compile & run Java code, generate HTML docs, source vs bytecode |
 | 3         | Coming soon… | [📂 Repo]()  | e.g. service management and logs                   |
 
 ---
