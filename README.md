@@ -45,7 +45,7 @@ Each lab will be documented in its own folder with a README containing:
 | 4         | 🟩 Node.js Introduction Lab – Installing, Configuring & Running Node | [📂 Repo](https://github.com/1suleyman/-Node.js-Introduction-Lab-Installing-Configuring-Running-Node/tree/main)  | NVM installation, Node.js LTS setup, system-wide PATH configuration, version verification, run JavaScript files  |
 | 5         | 🟨 Node.js & NPM Lab – Package Management and Installation | [📂 Repo](https://github.com/1suleyman/-Node.js-NPM-Lab-Package-Management-and-Installation/tree/main)  | npm version check, local vs global installs, package.json, npm view, git clone, Node module management  |
 | 6         | 🐍 Python Introduction Lab – Installing & Running Python | [📂 Repo](https://github.com/1suleyman/-Python-Introduction-Lab-Installing-Running-Python/tree/main)  | Python 2 vs 3 interpreters, install Python 3.8, apt/yum usage, verify versions, run scripts with different interpreters  |
-| 7         | Coming soon… | [📂 Repo]()  | e.g.  |
+| 7         | 🐍 Python PIP & Package Management Lab | [📂 Repo](https://github.com/1suleyman/-Python-PIP-Package-Management-Lab/tree/main)  | pip version verification, Flask install, requirements.txt usage, dependency inspection, package upgrade & uninstall  |
 
 ---
 
