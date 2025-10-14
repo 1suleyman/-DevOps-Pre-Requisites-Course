@@ -53,7 +53,7 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                 |
 | --------- | ------------ | --------- | ----------------------------------------- |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. Git basics (`init`, `add`, `commit`) |
+| 1         | 🧩 Git Installation & Repository Initialization Lab | [📂 Repo](https://github.com/1suleyman/-Git-Installation-Repository-Initialization-Lab/tree/main)  | git installation via yum, repository initialization, git status, staging files, first commit creation |
 | 2         | Coming soon… | [📂 Repo]()  | e.g. working with branches and merges     |
 | 3         | Coming soon… | [📂 Repo]()  | e.g. pushing and pulling from GitHub      |
 
