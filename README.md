@@ -44,7 +44,7 @@ Each lab will be documented in its own folder with a README containing:
 | 3         | ☕ Java Build & Packaging Lab – Apache Ant & Maven | [📂 Repo](https://github.com/1suleyman/-Java-Build-Packaging-Lab-Apache-Ant-Maven/tree/main)  | Apache Ant, Maven, build.xml, pom.xml, clean package, jar creation, automated Java builds                   |
 | 4         | 🟩 Node.js Introduction Lab – Installing, Configuring & Running Node | [📂 Repo](https://github.com/1suleyman/-Node.js-Introduction-Lab-Installing-Configuring-Running-Node/tree/main)  | NVM installation, Node.js LTS setup, system-wide PATH configuration, version verification, run JavaScript files  |
 | 5         | 🟨 Node.js & NPM Lab – Package Management and Installation | [📂 Repo](https://github.com/1suleyman/-Node.js-NPM-Lab-Package-Management-and-Installation/tree/main)  | npm version check, local vs global installs, package.json, npm view, git clone, Node module management  |
-| 6         | Coming soon… | [📂 Repo]()  | e.g.  |
+| 6         | 🐍 Python Introduction Lab – Installing & Running Python | [📂 Repo](https://github.com/1suleyman/-Python-Introduction-Lab-Installing-Running-Python/tree/main)  | Python 2 vs 3 interpreters, install Python 3.8, apt/yum usage, verify versions, run scripts with different interpreters  |
 | 7         | Coming soon… | [📂 Repo]()  | e.g.  |
 
 ---
