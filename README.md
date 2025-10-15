@@ -55,7 +55,6 @@ Each lab will be documented in its own folder with a README containing:
 | --------- | ------------ | --------- | ----------------------------------------- |
 | 1         | 🧩 Git Installation & Repository Initialization Lab | [📂 Repo](https://github.com/1suleyman/-Git-Installation-Repository-Initialization-Lab/tree/main)  | git installation via yum, repository initialization, git status, staging files, first commit creation |
 | 2         | 🌐 Git Remote Repositories Lab | [📂 Repo](https://github.com/1suleyman/-Git-Remote-Repositories-Lab/tree/main)  | git clone (remote & local), git add/commit/push, remote origin setup, syncing local changes to remote branch     |
-| 3         | Coming soon… | [📂 Repo]()  | e.g. pushing and pulling from GitHub      |
 
 ---
 
