@@ -64,7 +64,9 @@ Each lab will be documented in its own folder with a README containing:
 | --------- | ------------ | --------- | -------------------------------------------- |
 | 1         | 🌐 Apache Web Server Lab – Installation, Configuration & Hosting | [📂 Repo](https://github.com/1suleyman/-Apache-Web-Server-Lab-Installation-Configuration-Hosting/tree/main)  | installing & configuring Apache (httpd), managing services, editing httpd.conf, serving custom web content from /var/www/html |
 | 2         | ☕ Apache Tomcat 11 Lab – Installation, Configuration & Deployment | [📂 Repo](https://github.com/1suleyman/-Apache-Tomcat-11-Lab-Installation-Configuration-Deployment/tree/main)  | installing Apache Tomcat 11, configuring ports, managing services via startup/shutdown scripts, deploying .war applications, verifying logs and webapps directory                |
-| 3         | Coming soon… | [📂 Repo]()  | e.g. checking web server logs                |
+| 3         | 🐍 Python Flask App Deployment Lab | [📂 Repo](https://github.com/1suleyman/-Python-Flask-App-Deployment-Lab/tree/main)  | cloning Flask apps, installing dependencies via pip, modifying ports, running Flask in dev mode, deploying with Gunicorn (production WSGI)                |
+| 4         | Coming soon… | [📂 Repo]()  | e.g. checking web server logs                |
+| 5         | Coming soon… | [📂 Repo]()  | e.g. checking web server logs                |
 
 ---
 
