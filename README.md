@@ -66,7 +66,7 @@ Each lab will be documented in its own folder with a README containing:
 | 2         | ☕ Apache Tomcat 11 Lab – Installation, Configuration & Deployment | [📂 Repo](https://github.com/1suleyman/-Apache-Tomcat-11-Lab-Installation-Configuration-Deployment/tree/main)  | installing Apache Tomcat 11, configuring ports, managing services via startup/shutdown scripts, deploying .war applications, verifying logs and webapps directory                |
 | 3         | 🐍 Python Flask App Deployment Lab | [📂 Repo](https://github.com/1suleyman/-Python-Flask-App-Deployment-Lab/tree/main)  | cloning Flask apps, installing dependencies via pip, modifying ports, running Flask in dev mode, deploying with Gunicorn (production WSGI)                |
 | 4         | 🚀 Node.js Express App Deployment Lab | [📂 Repo](https://github.com/1suleyman/-Node.js-Express-App-Deployment-Lab/tree/main)  | cloning Node.js Express apps, installing dependencies with npm, running in dev mode, deploying with PM2 for production, scaling using cluster mode                |
-| 5         | Coming soon… | [📂 Repo]()  | e.g. checking web server logs                |
+| 5         | 🌐 IPs and Ports Lab – Apache Tomcat & Python Flask Connectivit | [📂 Repo](https://github.com/1suleyman/-IPs-and-Ports-Lab-Apache-Tomcat-Python-Flask-Connectivity/tree/main)  | configuring Tomcat and Flask app ports, editing host bindings (0.0.0.0 vs 127.0.0.1), running Flask with nohup, testing server connectivity using curl                |
 
 ---
 
