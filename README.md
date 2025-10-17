@@ -74,9 +74,8 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                         |
 | --------- | ------------ | --------- | --------------------------------- |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. installing MySQL/PostgreSQL  |
+| 1         | 🗄️ MySQL Lab – Installing and Managing Databases on Linux | [📂 Repo](https://github.com/1suleyman/-MySQL-Lab-Installing-and-Managing-Databases-on-Linux/tree/main)  | installing and configuring MySQL on Linux, managing users and passwords, granting privileges, querying databases, and verifying service status  |
 | 2         | Coming soon… | [📂 Repo]()  | e.g. connecting apps to databases |
-| 3         | Coming soon… | [📂 Repo]()  | e.g. running basic SQL commands   |
 
 ---
 
