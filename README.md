@@ -92,8 +92,7 @@ Each lab will be documented in its own folder with a README containing:
 | Challenge | Title        | Link      | Key Skill                                                  |
 | --------- | ------------ | --------- | ---------------------------------------------------------- |
 | 1         | 🧾 YAML Basics Lab – Creating and Editing YAML Files | [📂 Repo](https://github.com/1suleyman/-YAML-Basics-Lab-Creating-and-Editing-YAML-Files/tree/main)  | creating and editing YAML files with correct indentation, defining key–value pairs, dictionaries, and arrays, and building nested data structures via the vi editor                                |
-| 2         | Coming soon… | [📂 Repo]()  | e.g. virtualization and containers                         |
-| 3         | Coming soon… | [📂 Repo]()  | e.g. DevOps tools overview (Docker, Kubernetes, Terraform) |
+| 2         | 🧭 JSONPath Lab – Querying JSON with jpath | [📂 Repo](https://github.com/1suleyman/-JSONPath-Lab-Querying-JSON-with-jpath/tree/main)  | querying and extracting data from JSON files using JSONPath expressions with the jpath CLI, navigating nested objects and arrays, and automating commands with shell scripting                         |
 
 ---
 
