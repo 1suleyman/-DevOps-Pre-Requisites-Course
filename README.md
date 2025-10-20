@@ -83,9 +83,7 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                      |
 | --------- | ------------ | --------- | ---------------------------------------------- |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. user and group management                 |
-| 2         | Coming soon… | [📂 Repo]()  | e.g. file permissions and ownership            |
-| 3         | Coming soon… | [📂 Repo]()  | e.g. SSH key authentication and firewall rules |
+| 1         | 🔒 SSL & TLS Basics Lab – Securing Communication with Certificates | [📂 Repo](https://github.com/1suleyman/-SSL-TLS-Basics-Lab-Securing-Communication-with-Certificates/tree/main)  | configuring SSL/TLS encryption, generating CSRs and self-signed certificates with OpenSSL, setting up Apache HTTPS, and understanding symmetric vs asymmetric encryption                 |
 
 ---
 
