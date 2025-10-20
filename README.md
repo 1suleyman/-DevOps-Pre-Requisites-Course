@@ -91,7 +91,7 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                                  |
 | --------- | ------------ | --------- | ---------------------------------------------------------- |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. cloud computing basics                                |
+| 1         | 🧾 YAML Basics Lab – Creating and Editing YAML Files | [📂 Repo](https://github.com/1suleyman/-YAML-Basics-Lab-Creating-and-Editing-YAML-Files/tree/main)  | creating and editing YAML files with correct indentation, defining key–value pairs, dictionaries, and arrays, and building nested data structures via the vi editor                                |
 | 2         | Coming soon… | [📂 Repo]()  | e.g. virtualization and containers                         |
 | 3         | Coming soon… | [📂 Repo]()  | e.g. DevOps tools overview (Docker, Kubernetes, Terraform) |
 
