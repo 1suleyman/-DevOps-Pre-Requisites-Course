@@ -100,7 +100,7 @@ Each lab will be documented in its own folder with a README containing:
 
 | Challenge | Title        | Link      | Key Skill                                   |
 | --------- | ------------ | --------- | ------------------------------------------- |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. setting up web + database tiers        |
+| 1         | 🛍️ E-Commerce All-in-One Deployment Lab – Web + Database on a Single Server | [📂 Repo](https://github.com/1suleyman/-E-Commerce-All-in-One-Deployment-Lab-Web-Database-on-a-Single-Server/tree/main)  | deploying a full LAMP stack (Linux, Apache, MariaDB, PHP) on a single CentOS server, configuring database users, loading sample data, cloning a GitHub web app, and verifying end-to-end connectivity        |
 | 2         | Coming soon… | [📂 Repo]()  | e.g. environment variables and dependencies |
 | 3         | Coming soon… | [📂 Repo]()  | e.g. troubleshooting connection issues      |
 
