@@ -11,6 +11,20 @@ Each lab will be documented in its own folder with a README containing:
 
 ---
 
+### 📘 Course Summary
+
+By completing this DevOps Pre-Requisites course, I’ll have familiarised myself the core skills every DevOps engineer builds upon:
+
+* 🐧 Linux system administration
+* 🌐 Networking fundamentals
+* ⚙️ Application setup and service control
+* 💾 Database basics
+* 🔒 System and network security
+* 🌍 Source control with Git
+* 🏗️ Multi-tier application deployment
+
+---
+
 ## 🗂️ Module Index
 
 ### 🔹 Module 1: Linux Basics
@@ -102,26 +116,3 @@ Each lab will be documented in its own folder with a README containing:
 | --------- | ------------ | --------- | ------------------------------------------- |
 | 1         | 🛍️ E-Commerce All-in-One Deployment Lab – Web + Database on a Single Server | [📂 Repo](https://github.com/1suleyman/-E-Commerce-All-in-One-Deployment-Lab-Web-Database-on-a-Single-Server/tree/main)  | deploying a full LAMP stack (Linux, Apache, MariaDB, PHP) on a single CentOS server, configuring database users, loading sample data, cloning a GitHub web app, and verifying end-to-end connectivity        |
 | 2         | 🌐 E-Commerce Distributed Deployment Lab – Web and Database on Separate Servers | [📂 Repo](https://github.com/1suleyman/-E-Commerce-Distributed-Deployment-Lab-Web-and-Database-on-Separate-Servers/tree/main)  | deploying a distributed LAMP application by configuring MariaDB on one server and Apache + PHP on another, enabling remote database access, and verifying cross-host connectivity between web and DB tiers |
-
----
-
-### 🔹 Module 10: Lab Setup
-
-| Challenge | Title        | Link      | Key Skill                                  |
-| --------- | ------------ | --------- | ------------------------------------------ |
-| 1         | Coming soon… | [📂 Repo]()  | e.g. setting up environment and SSH access |
-| 2         | Coming soon… | [📂 Repo]()  | e.g. fixing common setup errors            |
-
----
-
-### 📘 Course Summary
-
-By completing this DevOps Pre-Requisites course, I’ll have familiarised myself the core skills every DevOps engineer builds upon:
-
-* 🐧 Linux system administration
-* 🌐 Networking fundamentals
-* ⚙️ Application setup and service control
-* 💾 Database basics
-* 🔒 System and network security
-* 🌍 Source control with Git
-* 🏗️ Multi-tier application deployment
